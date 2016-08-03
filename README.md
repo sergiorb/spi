@@ -1,8 +1,20 @@
-# SYPI v0.1.1
+# SYPI v0.1.2
 
 System Program Interface or sypi is a library that makes easier perform task in the system.
 
-## Modules in v0.1.1
+## Usage
+
+```python
+from sypi.sypi import Sypi
+
+sypi = Sypi()
+
+info_dict = sypi.info()
+
+print(info_dict)
+```
+
+## Modules in v0.1.2
 
 * Info
 
