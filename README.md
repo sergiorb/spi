@@ -1,8 +1,8 @@
-# SPI v0.1
+# SYPI v0.1.1
 
-System Program Interface or SPI is a library that makes easier perform task in the system.
+System Program Interface or sypi is a library that makes easier perform task in the system.
 
-## Modules in v0.1
+## Modules in v0.1.1
 
 * Info
 

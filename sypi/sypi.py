@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-from spi import info
+from sypi import info
 
-class Spi():
+class Sypi():
 
 	def info(self):
 
