@@ -1,4 +1,5 @@
 # SYPI v0.1.4
+[![PyPI version](https://badge.fury.io/py/sypi.svg)](https://badge.fury.io/py/sypi)
 
 System Program Interface or sypi is a library that makes easier to perform tasks in the system.
 
